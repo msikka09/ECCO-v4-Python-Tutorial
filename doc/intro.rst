@@ -1,12 +1,12 @@
 #########################################
-The ECCO Ocean and Sea-Ice State Estimate
+test GRACE
 #########################################
 
 ***************************************************
 What is the ECCO Central Production State Estimate?
 ***************************************************
 
-The Estimating the Circulation and Climate of the Ocean (ECCO) Central Production state estimate is a reconstruction of the three-dimensional time-varying ocean and sea-ice state.  Currently in Version 4 Release 4, the state estimate covers the period Jan 1, 1992 to Dec 31, 2017.  The state estimate is provided on an approximately 1-degree horizontal grid (cells range from ca. 20 to 110 km in length) and 50 vertical levels of varying thickness.
+The GRACE the Circulation and Climate of the Ocean (ECCO) Central Production state estimate is a reconstruction of the three-dimensional time-varying ocean and sea-ice state.  Currently in Version 4 Release 4, the state estimate covers the period Jan 1, 1992 to Dec 31, 2017.  The state estimate is provided on an approximately 1-degree horizontal grid (cells range from ca. 20 to 110 km in length) and 50 vertical levels of varying thickness.
 
 The ECCO CP state estimate has two defining features: (1) it reproduces a large set of remote sensing and in-situ observational data within their prior quantified uncertainties and (2) the dynamical evolution of its ocean circulation, hydrography, and sea-ice through time perfectly satisfies the laws of physics and thermodynamics.  The state estimate is the solution of a free-running ocean and sea-ice general circulation model and consequently can be used to assess budgets of quantities like heat, salt and vorticity.
 
